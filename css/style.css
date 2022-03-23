@@ -56,7 +56,7 @@ div.snake {
 }
 
 div.fruta {
-    background-image: url(../img/fruta.png);
+    background-image: url(..//img/fruta.png);
     border-radius: 40px;
     transform: scale(0.95);
     background-size: contain;
